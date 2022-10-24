@@ -15,7 +15,7 @@
    <img align="center" alt="João" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="João" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="João" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="João" height="150" src="">
+  <img align="right" alt="João" height="150" src="http://pa1.narvii.com/6372/de84edaa46605fc9313d74dc3b6d55d25969ca3d_00.gif">
 </div>
   
   ##

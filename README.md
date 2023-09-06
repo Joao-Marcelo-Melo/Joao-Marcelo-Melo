@@ -1,23 +1,19 @@
-## Oii, eu sou João Marcelo 👋
+## 👋 Olá, sou João Marcelo!
 
-- 🌱 Atualmente estou fazendo análise e desenvolvimento de sistemas, e estudando tecnologias de desenvolvimento web
-- 👯 Estou estudando para me torna um desenvolvedor Full-Stack 👀👀
-
+- 🚀 Tenho 19 anos e sou um entusiasta da tecnologia apaixonado pela programação.
+- 📚 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e estagiando na área de programação.
+- ✨ Minha jornada no mundo da tecnologia é uma busca constante por aprendizado e crescimento, e estou animado para compartilhar minha paixão e projetos aqui no GitHub.
+- 🌐 Algumas áreas que me interessam incluem desenvolvimento web, RPA, e inteligência artificial.
+- 📫 Fique à vontade para entrar em contato comigo para colaborações, sugestões ou apenas para trocar ideias. Estou ansioso para fazer parte dessa comunidade incrível!
 - 💻 Portfólio: <a href="https://joao-marcelo-melo.github.io/Joao-Marcelo-Portfolio/">https://joao-marcelo-melo.github.io/Joao-Marcelo-Portfolio/<a>
+
+##
 
 
 <div align="center">
   <a href="https://github.com/Joao-Marcelo-Melo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Marcelo-Melo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Marcelo-Melo&layout=compact&langs_count=7&theme=algolia"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="João" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="João" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="João" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="João" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="João" height="200" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif">
 </div>
   
   ##

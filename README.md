@@ -1,6 +1,6 @@
 ## 👋 Olá, sou João Marcelo!
 
-- 🚀 Tenho 21 anos, sou formado em **Análise e Desenvolvimento de Sistemas** e atuo como **programador backend Java**.  
+- 🚀 Tenho 22 anos, sou formado em **Análise e Desenvolvimento de Sistemas** e atuo como **programador backend Java**.  
 - 💻 Possuo **3 anos de experiência** no desenvolvimento de sistemas web, com foco em **arquiteturas robustas, microserviços e alta performance**.  
 - 📚 Minha jornada na tecnologia é movida por aprendizado contínuo e pela busca em criar soluções escaláveis e de impacto.  
 - 🌐 Áreas de interesse: **desenvolvimento backend**, **inteligência artificial** e **sistemas distribuídos**.  
